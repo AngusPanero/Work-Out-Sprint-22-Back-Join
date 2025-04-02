@@ -32,4 +32,3 @@ La estructura será la siguiente:
 
 3. POSTMAN
 - Cada endpoint debe ser probado en postman y ver que funcione.
-
